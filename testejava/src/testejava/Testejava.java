@@ -7,7 +7,7 @@ public class Testejava {
    
     
     public static void main(String[] args) {
-       System.out.println("PODEROSA LINDA DE PROGRAMAÇÃO");
+       System.out.println("PROJETO ALTERADO");
     }
     
 }
