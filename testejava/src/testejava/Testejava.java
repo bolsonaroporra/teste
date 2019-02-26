@@ -7,7 +7,7 @@ public class Testejava {
    
     
     public static void main(String[] args) {
-       System.out.println("PROJETO ALTERADOOO");
+       System.out.println("PROJETO ALTERADO");
     }
     
 }
